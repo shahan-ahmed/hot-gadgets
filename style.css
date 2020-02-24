@@ -6,7 +6,7 @@
     background-color: #FFC91C;
 }
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 60px;
 }
 .buy-now-btn{
     background-image: linear-gradient(to bottom,black 0%, rgb(44, 40, 42) 100%);
@@ -26,6 +26,7 @@
     border: none;
     box-shadow: 10px 10px 15px lightgray;
     border-radius: 20px;
+    margin-bottom: 50px;
 }
 
 .price{
@@ -55,9 +56,6 @@
     margin-left: 50px;
     margin-right: 20px;
 }
-.cat-img-2{
-    margin-left: 120px;
-}
-.cat-img-3{
+.cat-img-2,.cat-img-3{
     margin-left: 120px;
 }
